@@ -43,7 +43,7 @@
 ### 💼 Мои проекты
 
 - [ucams_home_assistant](https://github.com/Muxee4ka/ucams_home_assistant) — кастомный компонент Home Assistant для интеграции камер Ucams с поддержкой RTSP и удобным конфигом.
-- [hass-bcnn](https://github.com/Muxee4ka/hass-bcnn) — интеграция камер Beward BCNN для Home Assistant: простое подключение и автоматизация видеонаблюдения.
+- [hass-bcnn](https://github.com/Muxee4ka/hass-bcnn) — интеграция для Центр-сбк.
 - [tele2api](https://github.com/Muxee4ka/tele2api) — автоматизация продажи трафика через Tele2 API.
 
 
